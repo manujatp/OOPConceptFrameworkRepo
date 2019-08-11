@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OOPConceptSuite" duration-ms="58837" started-at="2019-08-10T23:59:22Z" finished-at="2019-08-11T00:00:21Z">
+    <groups>
+    </groups>
+    <test name="GumtreeTest" duration-ms="58837" started-at="2019-08-10T23:59:22Z" finished-at="2019-08-11T00:00:21Z">
+      <class name="com.tests.LoginTest">
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.tests.LoginTest@1dd92fe2]" name="setUpTest" is-config="true" duration-ms="14999" started-at="2019-08-10T23:59:22Z" finished-at="2019-08-10T23:59:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ff]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.tests.LoginTest@1dd92fe2]" name="verifyLoginPageTitleTest" duration-ms="37" started-at="2019-08-10T23:59:37Z" finished-at="2019-08-10T23:59:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.LoginTest@1dd92fe2]" name="tearDown" is-config="true" duration-ms="2804" started-at="2019-08-10T23:59:37Z" finished-at="2019-08-10T23:59:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.tests.LoginTest@1dd92fe2]" name="setUpTest" is-config="true" duration-ms="16785" started-at="2019-08-10T23:59:40Z" finished-at="2019-08-10T23:59:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ff]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="verifyLoginPageHeaderTest()[pri:2, instance:com.tests.LoginTest@1dd92fe2]" name="verifyLoginPageHeaderTest" duration-ms="89" started-at="2019-08-10T23:59:56Z" finished-at="2019-08-10T23:59:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageHeaderTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.LoginTest@1dd92fe2]" name="tearDown" is-config="true" duration-ms="3299" started-at="2019-08-10T23:59:57Z" finished-at="2019-08-11T00:00:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.tests.LoginTest@1dd92fe2]" name="setUpTest" is-config="true" duration-ms="15208" started-at="2019-08-11T00:00:00Z" finished-at="2019-08-11T00:00:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ff]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="doLoginTest()[pri:3, instance:com.tests.LoginTest@1dd92fe2]" name="doLoginTest" duration-ms="527" started-at="2019-08-11T00:00:15Z" finished-at="2019-08-11T00:00:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.LoginTest@1dd92fe2]" name="tearDown" is-config="true" duration-ms="4960" started-at="2019-08-11T00:00:16Z" finished-at="2019-08-11T00:00:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.LoginTest -->
+    </test> <!-- GumtreeTest -->
+  </suite> <!-- OOPConceptSuite -->
+</testng-results>

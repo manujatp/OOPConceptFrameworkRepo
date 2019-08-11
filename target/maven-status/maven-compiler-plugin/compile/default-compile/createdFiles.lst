@@ -1,0 +1,4 @@
+com\pages\HomePage.class
+com\pages\LoginPage.class
+com\pages\BasePage.class
+com\pages\Page.class

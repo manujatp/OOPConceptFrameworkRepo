@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" verbose="5" name="Failed suite [OOPConceptSuite]" parallel="tests">
+  <test thread-count="2" verbose="5" name="GumtreeTest(failed)" parallel="methods">
+    <parameter name="browser" value="ff"/>
+    <classes>
+      <class name="com.tests.LoginTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUpTest"/>
+          <include name="doLoginTest"/>
+        </methods>
+      </class> <!-- com.tests.LoginTest -->
+    </classes>
+  </test> <!-- GumtreeTest(failed) -->
+</suite> <!-- Failed suite [OOPConceptSuite] -->
