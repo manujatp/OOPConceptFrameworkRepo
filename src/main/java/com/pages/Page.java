@@ -18,7 +18,6 @@ public abstract class Page {
 	
 	//abstract methods
 	public abstract String getPageTitle();
-	
 	public abstract String getHeader(By locator);
 	public abstract WebElement getElement(By locator);
 	public abstract void waitForElement(By locator);
